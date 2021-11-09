@@ -1,0 +1,6 @@
+C:\Users\pnogemane\Desktop\Analyzed\Converter_WebAPI\Converter_WebAPI\obj\Debug\netcoreapp2.2\Converter_WebAPI.csprojAssemblyReference.cache
+C:\Users\pnogemane\Desktop\Analyzed\Converter_WebAPI\Converter_WebAPI\obj\Debug\netcoreapp2.2\Converter_WebAPI.AssemblyInfoInputs.cache
+C:\Users\pnogemane\Desktop\Analyzed\Converter_WebAPI\Converter_WebAPI\obj\Debug\netcoreapp2.2\Converter_WebAPI.AssemblyInfo.cs
+C:\Users\pnogemane\Desktop\Analyzed\Converter_WebAPI\Converter_WebAPI\obj\Debug\netcoreapp2.2\Converter_WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\pnogemane\Desktop\Analyzed\Converter_WebAPI\Converter_WebAPI\obj\Debug\netcoreapp2.2\Converter_WebAPI.RazorAssemblyInfo.cache
+C:\Users\pnogemane\Desktop\Analyzed\Converter_WebAPI\Converter_WebAPI\obj\Debug\netcoreapp2.2\Converter_WebAPI.RazorAssemblyInfo.cs
